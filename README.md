@@ -58,7 +58,7 @@ language-translator/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/<your-username>/language-translation-tool.git
+git clone https://github.com/<sinchanabr430>/language-translation-tool.git
 cd language-translation-tool
 ```
 
