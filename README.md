@@ -58,7 +58,7 @@ language-translator/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/<your-username>/language-translation-tool.git
+git clone https://github.com/<sinchanabr430>/language-translation-tool.git
 cd language-translation-tool
 ```
 
@@ -89,7 +89,11 @@ Frontend runs on `http://localhost:5173`.
 
 ## 📸 Screenshots
 
-*(Add screenshots of the app here before submitting — e.g. `![Main UI](screenshots/main-ui.png)`)*
+### Main Interface
+![Main UI](screenshots/main-ui.png)
+
+### Translation in Action
+![Translation Result](screenshots/translation-result.png)
 
 ## 🚀 Future Enhancements
 
