@@ -1,6 +1,6 @@
 # 🌐 Language Translation Tool
 
-A full-stack web application that translates text between 35+ languages in real time, built as part of the CodeAlpha AI & ML Internship.
+A full-stack web application that translates text between 35+ languages in real time — an independent project built to practice full-stack development and API integration.
 
 ## 📖 Overview
 
@@ -58,7 +58,7 @@ language-translator/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/<sinchanabr430>/language-translation-tool.git
+git clone https://github.com/sinchanabr430/language-translation-tool.git
 cd language-translation-tool
 ```
 
@@ -104,4 +104,4 @@ Frontend runs on `http://localhost:5173`.
 
 ## 📄 License
 
-This project was built for educational purposes as part of the CodeAlpha internship program.
+This project was built independently for educational purposes and portfolio development.
